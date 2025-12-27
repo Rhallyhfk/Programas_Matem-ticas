@@ -1,2 +1,3 @@
 # Programas_Matem-ticas
-Programas de matemáticas
+Programas de matemáticas realizados durante el semestre
+Matematicas discretas y Calculo
