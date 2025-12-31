@@ -11,4 +11,6 @@ python nombre_del_programa.py
 ## Contribuyentes
 <a href="https://github.com/Rhallyhfk/Programas_Matem-ticas/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Rhallyhfk/Programas_Matem-ticas" />
+  <img src="https://contrib.rocks/image?repo=TheRollerTroyer/Programas_Matem-ticas" />
+
 </a>
