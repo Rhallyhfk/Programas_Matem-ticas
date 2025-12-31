@@ -13,7 +13,8 @@ U, V = np.meshgrid(u, v)
 # f(x) = x^2 + 1
 def f(x):
     return x**2 + 1
-
+#La fución puede ser remplazada, por ejemplo alguna función trigonometrica,
+#si se remplaza no se mostrara el cambio en la interfaz, se debe actualizar la linea 34
 # Parametrización
 X = U                
 Y = f(U) * np.cos(V) 
@@ -37,5 +38,6 @@ fig.colorbar(surf, shrink=0.5, aspect=5, label='Valor de Mapeo de Color')
 
 # Ajustar ángulo de vista para mejor perspectiva
 ax.view_init(elev=20, azim=-60)
+
 
 plt.show()
